@@ -3,12 +3,7 @@ package net.liquidpineapple.movienight.server;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.eclipse.jetty.server.Server;
-import org.eclipse.jetty.server.handler.ContextHandlerCollection;
-import org.eclipse.jetty.server.handler.HandlerCollection;
 import org.slf4j.bridge.SLF4JBridgeHandler;
-
-import java.io.FileNotFoundException;
-import java.io.IOException;
 
 @Slf4j
 public class MovieNightServer {
