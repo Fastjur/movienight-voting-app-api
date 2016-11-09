@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/liquidpineapple/movienight-voting-app-api.png?label=ready&title=Ready)](https://waffle.io/liquidpineapple/movienight-voting-app-api)
 # Setting up your IDE
 
 1. Clone the repository
